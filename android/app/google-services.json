@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197023885124",
+    "project_id": "bhive-198612"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197023885124:android:308c1295203ffe5d",
+        "android_client_info": {
+          "package_name": "com.bhive.bhivepay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197023885124-64mutiv7dmdlaj4eev7eu2fk97pgg8g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhive.bhivepay",
+            "certificate_hash": "3778d2d4b9e5ef311a07d9da12349a42ce72b1eb"
+          }
+        },
+        {
+          "client_id": "197023885124-ropjg792k30f1s3gr8mj7cvaqcq6ml9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5GTqWWh7Q2IVL4HGy25jhKvuWrEkQS8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
